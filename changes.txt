@@ -1,0 +1,1 @@
+appying morphological closing with a disk of diameter 9 just after morophological opening with a disk of diameter 12.
